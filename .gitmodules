@@ -1,0 +1,3 @@
+[submodule "lib/nvf2sw"]
+	path = lib/nvf2sw
+	url = git@github.com:scott-cjx/nvf2sw.git
